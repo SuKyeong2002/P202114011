@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("202114011 오수경");
 		System.out.println(Hello.sum(10));
 		System.out.println(Hello.sum(100));
+		System.out.println(Hello.sum(1000));
 	}
 }
